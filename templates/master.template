@@ -208,6 +208,8 @@ Mappings:
       AMIID: ami-0baa9106126932e65
     ap-northeast-2:
       AMIID: ami-042b2f5775cddc86b
+    ap-south-1:
+      AMIID: ami-0696ba1f73ecdfa09
     ap-southeast-1:
       AMIID: ami-0b22101780fd14a57
     ap-southeast-2:
