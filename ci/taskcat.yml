@@ -1,0 +1,12 @@
+global:
+  owner: quickstart@amazon.com
+  qsname: test-project
+  regions:
+    - ap-south-1
+  reporting: true
+tests:
+  test-scenario1:
+    parameter_input: input.json
+    template_file: master.template
+    regions:
+    - ap-south-1
